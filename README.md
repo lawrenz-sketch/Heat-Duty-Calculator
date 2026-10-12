@@ -1,6 +1,6 @@
 # Heat Duty Calculator
 
-A Python web app based on the supplied spreadsheet and demonstration video.
+An app that quickly calculates how much energy is needed to heat or cool a liquid using real-time data, preventing manual calculation mistakes when checking work in the field.
 
 ## Features
 - Live heat-duty calculation: `Q = m × Cp × (Tout - Tin)`
